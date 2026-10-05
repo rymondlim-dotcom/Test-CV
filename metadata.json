@@ -1,0 +1,6 @@
+{
+  "name": "Personal CV & Portfolio",
+  "description": "Minimal, modern one-page personal CV website with clean typography, vertical timeline, skills, projects, and contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
